@@ -1,0 +1,27 @@
+{
+  "name": "node-quill-converter-xp",
+  "version": "0.1.1",
+  "description": "Convert HTML to Delta",
+  "keywords": [
+    "node",
+    "quill",
+    "delta",
+    "convert",
+    "html"
+  ],
+  "homepage": "https://github.com/joelcolucci/node-quill-converter",
+  "bugs": {
+    "url": "https://github.com/joelcolucci/node-quill-converter/issues"
+  },
+  "main": "./lib/index.js",
+  "author": "Joel Colucci",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jsdom": "^11.8.0",
+    "quill": "^1.3.6"
+  }
+}
