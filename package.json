@@ -9,12 +9,12 @@
     "convert",
     "html"
   ],
-  "homepage": "https://github.com/joelcolucci/node-quill-converter",
+  "homepage": "https://github.com/yucheng-Li/node-quill-converter-xp",
   "bugs": {
-    "url": "https://github.com/joelcolucci/node-quill-converter/issues"
+    "url": "https://github.com/yucheng-Li/node-quill-converter-xp/issues"
   },
   "main": "./lib/index.js",
-  "author": "Joel Colucci",
+  "author": "yucheng-Li",
   "license": "MIT",
   "private": false,
   "scripts": {
