@@ -1,6 +1,6 @@
 {
   "name": "quill-converter-xp",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "description": "Convert HTML to Delta",
   "keywords": [
     "node",
@@ -9,9 +9,9 @@
     "convert",
     "html"
   ],
-  "homepage": "https://github.com/yucheng-Li/node-quill-converter-xp",
+  "homepage": "https://github.com/yucheng-Li/quill-converter-xp",
   "bugs": {
-    "url": "https://github.com/yucheng-Li/node-quill-converter-xp/issues"
+    "url": "https://github.com/yucheng-Li/quill-converter-xp/issues"
   },
   "main": "./lib/index.js",
   "author": "yucheng-Li",
